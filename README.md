@@ -24,8 +24,8 @@ My goal is to become a skilled data scientist or data engineer, applying my expe
 
 ### Current Project
 
-**Project Title**: [Automated Chessboard Design]()  
-**Description**: Designing an automated chessboard using Java. This project aims to create an intelligent chessboard that can manage and automate chess games.
+**Project Title**: [Digital Portfolio](https://github.com/BelfaidaMedReda/MyPortofilo)  
+**Description**: The Digital Portfolio Showcase is an ongoing project aimed at creating a comprehensive and visually appealing online portfolio that highlights my academic achievements, projects, and skills in computer science and data science. This portfolio will serve as a personal branding tool, showcasing my journey as a second-year engineering student at Grenoble INP - Ensimag. It will feature sections for my coursework, research interests, and practical applications of machine learning, as well as projects developed using technologies like Next.js and Tailwind CSS. The objective is to not only present my work but also to reflect my growth and aspirations in the field, making it an essential component for future academic and professional opportunities.
 
 ### GitHub Stats
 
