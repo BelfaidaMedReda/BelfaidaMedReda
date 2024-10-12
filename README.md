@@ -17,15 +17,21 @@ My goal is to become a skilled data scientist or data engineer, applying my expe
 
 ### Last Completed Project
 
-**Project Title**: [π Approximation](https://github.com/BelfaidaMedReda/-Approximation-)  
-**Description**: Approximation of π using the Monte-Carlo method and a 7-segment display, implemented in Python.  
-**Preview**:  
-<img src="https://github.com/user-attachments/assets/ba610059-3324-4824-b192-3cf25d375248" width="400" alt="π Approximation Project Image">
+**Project Title** : [π Approximation](https://github.com/BelfaidaMedReda/-Approximation-)  
+**Description** : Approximation of π using the Monte-Carlo method and a 7-segment display, implemented in Python.  
+**Preview** :  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ba610059-3324-4824-b192-3cf25d375248" width="400" alt="π Approximation Project Image">
+</div>
 
 ### Current Project
 
-**Project Title**: [Digital Portfolio](https://github.com/BelfaidaMedReda/MyPortofilo)  
-**Description**: The Digital Portfolio Showcase is an ongoing project aimed at creating a comprehensive and visually appealing online portfolio that highlights my academic achievements, projects, and skills in computer science and data science. This portfolio will serve as a personal branding tool, showcasing my journey as a second-year engineering student at Grenoble INP - Ensimag. It will feature sections for my coursework, research interests, and practical applications of machine learning, as well as projects developed using technologies like Next.js and Tailwind CSS. The objective is to not only present my work but also to reflect my growth and aspirations in the field, making it an essential component for future academic and professional opportunities.
+**Project Title** : [Digital Portfolio](https://github.com/BelfaidaMedReda/MyPortofilo)  
+**Description** : The Digital Portfolio Showcase is an ongoing project aimed at creating a comprehensive and visually appealing online portfolio that highlights my academic achievements, projects, and skills in computer science and data science. This portfolio will serve as a personal branding tool, showcasing my journey as a second-year engineering student at Grenoble INP - Ensimag. It will feature sections for my coursework, research interests, and practical applications of machine learning, as well as projects developed using technologies like Next.js and Tailwind CSS. The objective is to not only present my work but also to reflect my growth and aspirations in the field, making it an essential component for future academic and professional opportunities.
+**Preview** :  
+<div align="center">
+  <img src="./preview_f.png" alt="preview" width="500" height="300">
+</div>
 
 ### GitHub Stats
 
@@ -40,5 +46,5 @@ My goal is to become a skilled data scientist or data engineer, applying my expe
 
 ### Contact
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-reda-belfaida-392985201/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-reda-belfaida)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/BelfaidaMedReda)
