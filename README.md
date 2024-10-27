@@ -22,17 +22,6 @@ My goal is to become a skilled data scientist or data engineer, applying my expe
 
 ### Last Completed Project
 
-**Project Title** : [π Approximation](https://github.com/BelfaidaMedReda/-Approximation-)  
-
-**Description** : Approximation of π using the Monte-Carlo method and a 7-segment display, implemented in Python.  
-
-**Preview** :  
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ba610059-3324-4824-b192-3cf25d375248" width="400" alt="π Approximation Project Image">
-</div>
-
-### Current Project
-
 **Project Title** : [Digital Portfolio](https://github.com/BelfaidaMedReda/MyPortofilo) 
 
 **Description** : Design of my personal portfolio
@@ -41,6 +30,18 @@ My goal is to become a skilled data scientist or data engineer, applying my expe
 
 <div align="center">
   <img src="./preview_f.png" alt="preview" width="500" height="300">
+</div>
+
+
+### Current Project
+
+**Project Title** : [Movie Recommender System](https://github.com/BelfaidaMedReda/Movie-Recommender)  
+
+**Description** : A content-based movie recommendation system that suggests similar movies based on movie descriptions, genres, cast, crew, and keywords.
+
+**Preview** :  
+<div align="center">
+  <img src="./MR-preview.png" alt="MR-preview" width="500" height="300">
 </div>
 
 
