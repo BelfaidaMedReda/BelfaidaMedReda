@@ -22,26 +22,26 @@ My goal is to become a skilled data scientist or data engineer, applying my expe
 
 ### Last Completed Project
 
-**Project Title** : [Digital Portfolio](https://github.com/BelfaidaMedReda/MyPortofilo) 
+**Project Title** : [AFCON 2025's winner prediction](https://github.com/BelfaidaMedReda/AFCON-2025-winner) 
 
-**Description** : Design of my personal portfolio
+**Description** : Prediction of AFCON 2025's winner using Machine Learning
 
 **Preview** :
 
 <div align="center">
-  <img src="./preview_f.png" alt="preview" width="500" height="300">
+  <img src="./Afcon.jpeg" alt="preview" width="500" height="300">
 </div>
 
 
 ### Current Project
 
-**Project Title** : [Movie Recommender System](https://github.com/BelfaidaMedReda/Movie-Recommender)  
+**Project Title** : [Projet Génie Logiciel](https://github.com/BelfaidaMedReda/ProjetGL)  
 
-**Description** : A content-based movie recommendation system that suggests similar movies based on movie descriptions, genres, cast, crew, and keywords.
+**Description** : Java Implementation for a language Deca's compiler 
 
 **Preview** :  
 <div align="center">
-  <img src="./MR-preview.png" alt="MR-preview" width="500" height="300">
+  <img src="Compiler-design.jpg" alt="Compiler Design" width="500" height="300">
 </div>
 
 
