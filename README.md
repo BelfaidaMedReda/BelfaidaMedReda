@@ -2,38 +2,64 @@
 
 Hello, my name is Mohammed Reda, and I am currently studying at Grenoble INP - Ensimag, a prestigious French institution specializing in computer science and applied mathematics. I am passionate about data science and engineering, with a strong focus on machine learning (ML) models and data visualization.
 
-My goal is to become a skilled data scientist or data engineer, applying my expertise to solve complex problems and drive data-driven decision-making. At Grenoble INP - Ensimag, I am actively developing my skills through hands-on projects and coursework, keeping abreast of the latest advancements in the field.
 
 ### Tech Stack
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 ## Projects
 
-### Last Completed Project
+### Current Project
 
-**Project Title** : [AFCON 2025's winner prediction](https://github.com/BelfaidaMedReda/AFCON-2025-winner) 
+**Project Title** : [Machine Learning applied to Sports Betting](https://github.com/BelfaidaMedReda/NBA-betting) 
 
-**Description** : Prediction of AFCON 2025's winner using Machine Learning
+**Description** : This project uses machine learning to predict NBA game outcomes for sports betting. The model analyzes historical game data and uses it to estimate probabilities for future games.
+
 
 **Preview** :
 
 <div align="center">
-  <img src="./Afcon.jpeg" alt="preview" width="500" height="300">
+  <img src="./nba.jpeg" alt="preview" width="500" height="300">
 </div>
 
 
-### Current Project
+### Last Completed Project
 
 **Project Title** : [Projet Génie Logiciel](https://github.com/BelfaidaMedReda/ProjetGL)  
 
