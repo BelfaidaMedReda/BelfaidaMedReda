@@ -3,7 +3,7 @@
 ## About Me
 
 <div>
-📚 I’m a third year student at Grenoble INP - Ensimag, currently my master degree in AI. <br>
+📚 I’m a third year student at Grenoble INP - Ensimag, currently pursuing my master degree in AI. <br>
 📈 I'm interested in Machine Learning, Data Science and Software Developement<br>
 📫 Reach me at <a href="mailto:Medreda.belfaida@gmail.com">Medreda.belfaida@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/mohammed-reda-belfaida/">Linkedin</a><br>
