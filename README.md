@@ -32,7 +32,11 @@
 
 ### 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BelfaidaMedReda" alt="MohammedRedaBelfaida"  /></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=BelfaidaMedReda" alt="GitHub Streak" />
+  </a>
+</p>
 
 <hr>
 <p align="center">
