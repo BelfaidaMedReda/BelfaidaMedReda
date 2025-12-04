@@ -4,7 +4,7 @@
 
 <div>
 📚 I’m a third year student at Grenoble INP - Ensimag, currently pursuing my master degree in AI. <br>
-📈 I'm interested in Machine Learning, Data Science and Software Developement<br>
+📈 I'm interested in Machine Learning, Data Science and Software Developement.<br>
 📫 Reach me at <a href="mailto:Medreda.belfaida@gmail.com">Medreda.belfaida@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/mohammed-reda-belfaida/">Linkedin</a><br>
 🌐 Check <a href="https://belfaida-portfolio.vercel.app/">my portfolio</a><br>
@@ -42,9 +42,25 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BelfaidaMedReda&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BelfaidaMedReda&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=BelfaidaMedReda&show_icons=true"
+        alt="BelfaidaMedReda GitHub stats"
+      />
+    </td>
+    <td align="right" width="100%">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BelfaidaMedReda&layout=compact"
+        alt="Most used languages"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <hr>
 
